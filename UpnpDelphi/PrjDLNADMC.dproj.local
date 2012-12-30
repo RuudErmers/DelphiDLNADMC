@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012-12-20 11:36:10.536.pas,C:\Users\Ruud\Documents\RAD Studio\Projects\Unit4.pas=C:\Users\Ruud\Documents\Projects2010\Components\upnp\UpnpDelphi\UMain.pas</Transaction>
+    <Transaction>2012-12-20 11:36:10.536.dfm,C:\Users\Ruud\Documents\RAD Studio\Projects\Unit4.dfm=C:\Users\Ruud\Documents\Projects2010\Components\upnp\UpnpDelphi\UMain.dfm</Transaction>
+    <Transaction>2012-12-20 11:36:23.024.dproj,C:\Users\Ruud\Documents\RAD Studio\Projects\Project4.dproj=C:\Users\Ruud\Documents\Projects2010\Components\upnp\UpnpDelphi\PrjUpnp.dproj</Transaction>
+    <Transaction>2012-12-20 12:33:58.023.pas,C:\Users\Ruud\Documents\Projects2010\Components\upnp\UpnpDelphi\Unit1.pas=C:\Users\Ruud\Documents\Projects2010\Components\upnp\UpnpDelphi\UComEnumerator.pas</Transaction>
+    <Transaction>2012-12-22 15:39:11.674.pas,C:\Users\Ruud\Documents\Projects2010\Components\upnp\UpnpDelphi\Unit4.pas=C:\Users\Ruud\Documents\Projects2010\Components\UUpnpDMC.pas</Transaction>
+    <Transaction>2012-12-23 14:51:29.790.dproj,C:\Users\Ruud\Documents\Projects2010\Multimedia\MM_DLNADMC\PrjUpnp.dproj=C:\Users\Ruud\Documents\Projects2010\Multimedia\MM_DLNADMC\MM_DLNADMC.dproj</Transaction>
+    <Transaction>2012-12-23 14:55:04.707.pas,C:\Users\Ruud\Documents\Projects2010\Multimedia\MM_DLNADMC\UComEnumerator.pas=C:\Users\Ruud\Documents\Projects2010\Components\upnp\UComEnumerator.pas</Transaction>
+    <Transaction>2012-12-25 15:03:04.261.pas,C:\Users\Ruud\Documents\Projects2010\Components\upnp\MM_DLNADMC\UMPCController.pas=</Transaction>
+    <Transaction>2012-12-25 15:07:57.425.dproj,C:\Users\Ruud\Documents\Projects2010\Components\upnp\MM_DLNADMC\MM_DLNADMC.dproj=C:\Users\Ruud\Documents\Projects2010\Components\upnp\MM_DLNADMC\PrjUpnp.dproj</Transaction>
+    <Transaction>2012-12-25 15:54:14.481.pas,C:\Users\Ruud\Documents\Projects2010\Components\upnp\UUpnpDMC.pas=C:\Users\Ruud\Documents\Projects2010\Components\upnp\UAVTransportService.pas</Transaction>
+    <Transaction>2012-12-29 14:14:21.248.dproj,C:\Users\Ruud\Documents\Sourceforge\DelphiDLNADMC\UpnpDelphi\PrjUpnp.dproj=C:\Users\Ruud\Documents\Sourceforge\DelphiDLNADMC\UpnpDelphi\PrjDLNADMC.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
